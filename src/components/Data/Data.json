@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "multiplicad": 1,
+        "multiplier": 1,
+        "product": 1
+    },{
+        "id": 2,
+        "multiplicad": 1,
+        "multiplier": 2,
+        "product": 2
+    },{
+        "id": 3,
+        "multiplicad": 1,
+        "multiplier": 3,
+        "product": 3
+    },{
+        "id": 4,
+        "multiplicad": 1,
+        "multiplier": 4,
+        "product": 4
+    },{
+        "id": 5,
+        "multiplicad": 1,
+        "multiplier": 5,
+        "product": 5
+    }
+]

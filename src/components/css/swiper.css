@@ -1,0 +1,68 @@
+img{
+    height: 10rem;
+    display: block;
+}
+
+.me{
+    height: 15rem;
+}
+
+.customer{
+    height: 20rem;
+}
+
+.inputbox{
+    width: 10rem;
+    height: 3rem;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+Button{
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.next:disabled,
+.next[disabled]{
+    opacity: 0;
+}
+
+.good{
+    margin-left: 10.5px;
+    margin-right: 10.5px;
+}
+
+.good:hover{
+    opacity: .8;
+}
+
+.goodlist{
+    background-color: #008161;
+    color: white;
+}
+
+.swiper-slide{
+    height: 240px !important;
+    width: 181px !important;
+    background-color: white;
+
+}
+
+.swiper-wrapper{
+    margin: 5rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#icon{
+    height: 7rem;
+    width: 7rem;
+    margin: auto;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+
+#icon-bg{
+    background-color: white;
+}
